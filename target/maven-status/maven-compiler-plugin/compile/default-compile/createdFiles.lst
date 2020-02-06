@@ -1,0 +1,5 @@
+pages/SignUpPage.class
+pages/LoginPage.class
+utilities/ExtentReporterNG.class
+utilities/TestUtility.class
+pages/BasePage.class
